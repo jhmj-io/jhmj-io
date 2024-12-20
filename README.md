@@ -1,4 +1,4 @@
-Coding a means to end. 
+For the beauty of beautiful code.
 
 <!---
 jhmj-io/jhmj-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
